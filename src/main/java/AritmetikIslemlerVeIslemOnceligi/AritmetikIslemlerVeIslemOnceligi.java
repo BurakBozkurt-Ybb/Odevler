@@ -1,8 +1,8 @@
-package org.example;
+package AritmetikIslemlerVeIslemOnceligi;
 
 import java.util.Scanner;
 
-public class IslemSirasiHesaplama {
+public class AritmetikIslemlerVeIslemOnceligi {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -25,3 +25,4 @@ public class IslemSirasiHesaplama {
         input.close();
     }
 }
+
